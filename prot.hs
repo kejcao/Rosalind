@@ -1,3 +1,5 @@
+-- https://rosalind.info/problems/prot/
+
 f "UUU" = "F"
 f "UUC" = "F"
 f "UUA" = "L"
